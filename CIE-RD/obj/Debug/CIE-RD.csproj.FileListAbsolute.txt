@@ -1,0 +1,9 @@
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\bin\Debug\CIE-RD.exe.config
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\bin\Debug\CIE-RD.exe
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\bin\Debug\CIE-RD.pdb
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\obj\Debug\CIE-RD.csprojAssemblyReference.cache
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\obj\Debug\CIE_RD.Form1.resources
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\obj\Debug\CIE_RD.Properties.Resources.resources
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\obj\Debug\CIE-RD.csproj.GenerateResource.cache
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\obj\Debug\CIE-RD.exe
+C:\Users\aneud\source\repos\CIE-RD\CIE-RD\obj\Debug\CIE-RD.pdb
