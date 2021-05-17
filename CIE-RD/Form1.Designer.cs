@@ -42,7 +42,6 @@
             this.txtCIE.Name = "txtCIE";
             this.txtCIE.Size = new System.Drawing.Size(303, 29);
             this.txtCIE.TabIndex = 0;
-            this.txtCIE.Text = "054-0114505-6";
             // 
             // btnValidar
             // 
